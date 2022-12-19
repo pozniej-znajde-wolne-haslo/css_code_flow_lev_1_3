@@ -1,0 +1,19 @@
+nav {
+    background: rgb(183, 162, 162);
+}
+
+nav ul a li {
+    color:rgb(15, 65, 15);
+    list-style-type: none;
+    font-weight: bold;
+}
+
+section p:first-of-type {
+    color: rgb(38, 136, 38);  
+}
+
+span {
+    color: rgb(38, 136, 38);  
+}
+
+
